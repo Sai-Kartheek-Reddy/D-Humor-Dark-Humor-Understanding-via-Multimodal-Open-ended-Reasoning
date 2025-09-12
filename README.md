@@ -85,9 +85,15 @@ If you find this work useful in your research, or make use of the dataset and me
 ```bibtex
 @article{kasu2025d,
   title   = {D-HUMOR: Dark Humor Understanding via Multimodal Open-ended Reasoning},
-  author  = {Kasu, Sai Kartheek Reddy and Rehman, Mohammad Zia Ur and Dar, Shahid Shafi and Junghare, Rishi Bharat and Namboodiri, Dhanvin Sanjay and Kumar, Nagendra},
+  author  = {Kasu, Sai Kartheek Reddy and
+            Rehman, Mohammad Zia Ur and 
+            Dar, Shahid Shafi and
+            Junghare, Rishi Bharat and 
+            Namboodiri, Dhanvin Sanjay and
+            Kumar, Nagendra},
   journal = {arXiv preprint arXiv:2509.06771},
   year    = {2025}
 }
+
 
 
